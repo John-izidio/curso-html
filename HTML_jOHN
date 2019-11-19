@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+
+<html LANG="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="CV Jonathas Izidio">
+<title>JONATHAS CV </title><link type="textcss" rel="stylesheet" href="FOTO/Untitled-1.css.css">
+
+   <!-- <style>
+    
+        h2{color:aqua}
+</style></p>-->
+    
+    </head>
+<body>
+    
+     <p><img src="FOTO/Capture3.PNG" alt="john batman">
+        
+ <!--
+                 Segunda foto por opção da pagina 
+
+<p></p> <img src="FOTO/fotov2.jpg"width="300" height"300"alt= "Jon viking" align="right"> </p>-->
+    
+    <h1 style="color: yellow"><b>Jonathas</b>         <strong>Izidio</strong> <i>da</i> <em>Silva</em></h1>&#9679;
+    
+        Brasileiro, solteiro, 26 ano s
+        Rua Professor Francisco Pinheiro, 1235  
+        CEP  08410-020 - Guaianases – São Paulo – SP
+        Telefones: (11) 98467-9167 / (11) 2961-8796
+        E-mail: jizidio93@gmail.com
+
+        <h2>FORMAÇÃO</h2>
+            <p>Instituição: UBC - Brás Cubas 
+            Curso: Tecnologia em Analise e Desenvolvimento de Sistemas - (Cursando)
+            Período: 12/2018 a 06/2021</p>
+
+
+        <h2>EXPERIÊNCIA PROFISSIONAL</h2>
+                   <dl> 
+                    <dt> Empresa: Grupo Empresa Gestão de Pessoas “z”</dt>
+               <dd> Cargo: Ponto Focal III
+                <br>Período: 30/11/2015 – 20/09/2016
+                   Atividade:  Ponto focal intermediando e auxiliando em novos projetos também atuava em Analista de cobrança dentro da Accenture.</dd>
+                  </dl>
+            <h3>  Empresa: Benner</h3>
+        <p>Cargo: Analista Pleno
+        Período: 11/2014 – 03/10/2015
+        Atividade: Jurídico contencioso -vivo, prestando serviços Cadastro de processos Jurídicos para a empresa Telefônica /Vivo.</p>
+
+            <h3>Empresa: Accenture do Brasil</h3>
+        <p>Cargo: Analista Junior
+        Período: Experiência Atual.
+        Homologação: validação cenários de teste de Telecom serviço de Pré pago dentro do escopo de Faturamento.</p>
+
+         <h2>QUALIFICAÇÕES</h2>
+
+             <h3>Formação Dashboard intermediário em excel</h3>
+              <p>Instituição: Impacta
+            Ano de conclusão: 2018</p>
+
+            <h3> Formação em SQL 2016 - Módulo II (banco de Dados)</h3></h3>
+           <br><p> Instituição: Impacta
+               Ano de conclusão: 2018</p> 
+            <h3>Formação: (POO) Introdução à Programação Orientada a Objetos </h3></h3></h3>
+            <p>Instituição: Fundação Bradesco
+            Ano de conclusão: 2019</p>
+
+             <pre>
+           <h3>Formação PMO - Implantação e Gerenciamento de um Escritório de Projeto</h3>
+            <p>Instituição: Impacta
+            Ano de conclusão: Data de Conclusão: 16/11/2019</p> </pre>
+   <dd> link curso
+            <a href="https://www.impacta.com.br/curso/PMO-Implantacao-e-Gerenciamento-de-um-Escritorio-de-Projetos.php" target="_blank"> link curso</a> </dd>     
+
+ 
+           <a href="FOTO/Capture.PNG"target="_blank">fotov2</a>
+
+ </body>
+</html>
